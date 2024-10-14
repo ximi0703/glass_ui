@@ -1,0 +1,35 @@
+
+desktop_icon: {resourceId: "com.upuphone.star.launcher:id/app_name", text: "万象空间"}
+
+logo_anim_view: {resourceId: "com.upuphone.star.launcher:id/logo_anim_view"}
+
+new_guide: {resourceId: "com.upuphone.star.launcher:id/app_name", text: "新手引导"}
+
+navi_info_view: {resourceId: "com.upuphone.star.launcher:id/info_layout"}
+
+navi_icon: {resourceId: "com.upuphone.star.launcher:id/app_name", text: "导航"}
+
+canvas_btn3: {resourceId: "com.upuphone.star.launcher:id/canvas_btn3"}
+
+
+volume_progress: {resourceId: "com.upuphone.star.launcher:id/volume_progress"}
+
+brightness_progress: {resourceId: "com.upuphone.star.launcher:id/brightness_icon"}
+
+#music_btn_pause: {resourceId: "com.upuphone.star.launcher:id/btn_pause"}
+music_btn_pause: {resourceId: "com.upuphone.star.launcher:id/iv_cover"}
+
+music_icon: {resourceId: "com.upuphone.star.launcher:id/app_name", text: "随身听"}
+
+in_fanyi: {resourceId: "com.upuphone.star.launcher:id/tips", text: "单击停止"}
+
+fanyi_icon: {resourceId: "com.upuphone.star.launcher:id/app_name", text: "翻译官"}
+
+tv_confirm: {resourceId: "com.upuphone.star.launcher:id/tv_confirm"}
+
+btn_confirm: {resourceId: "com.upuphone.star.launcher:id/btn_confirm"}
+
+tiktok_icon: {resourceId: "com.upuphone.star.launcher:id/app_name", text: "抖音"}
+
+kuaishou: {resourceId: "com.upuphone.star.launcher:id/app_name", text: "快手"}
+

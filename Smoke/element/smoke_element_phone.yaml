@@ -1,0 +1,64 @@
+start_navi: {resourceId: "com.upuphone.star.launcher:id/navi_title", text: "导航"}
+
+input_key: {resourceId: "com.upuphone.star.launcher:id/keyWord", text: "搜索目的地"}
+
+select_location: {resourceId: "com.upuphone.star.launcher:id/name"}
+
+start_navigation: {resourceId: "com.upuphone.star.launcher:id/navigation", text: "眼镜开始导航"}
+exit_navigation: {resourceId: "com.upuphone.star.launcher:id/exit"}
+exit_navi: {resourceId: "com.upuphone.star.launcher:id/exitNavi"}
+
+
+setting_vol: {resourceId: "com.upuphone.star.launcher:id/setting_vol"}
+
+setting_bri: {resourceId: "com.upuphone.star.launcher:id/setting_bri"}
+
+start_music: {resourceId: "com.upuphone.star.launcher:id/music_player", text: "随身听"}
+
+in_music: {resourceId: "com.meizu.media.music:id/action_text", text: "播放"}
+
+stop_music: {resourceId: "com.meizu.media.music:id/action_text", text: "暂停"}
+
+card_translate: {resourceId: "com.upuphone.star.launcher:id/card_translate", text: "翻译官"}
+
+card_web_tiktok: {resourceId: "com.upuphone.star.launcher:id/card_web_tiktok", text: "抖音"}
+
+confirm: {resourceId: "com.upuphone.star.launcher:id/confirm", text: "安装"}
+
+round_corner_button: {resourceId: "com.meizu.mstore:id/round_corner_button", description: "安装"}
+
+add_shortcut_icon: {resourceId: "com.upuphone.star.launcher:id/add_shortcut_icon"}
+
+save: {resourceId: "com.upuphone.star.launcher:id/save", text: "保存"}
+
+quick_worker: {resourceId: "com.upuphone.star.launcher:id/quick_worker", text: "快手"}
+
+rb_me: {resourceId: "com.upuphone.star.launcher:id/rb_me", text: "我的"}
+
+glass_layout: {resourceId: "com.upuphone.star.launcher:id/glass_layout"}
+
+wifi_phone_connect: {resourceId: "com.upuphone.star.launcher:id/wifi_phone_connect"}
+
+confirm_in: {resourceId: "com.upuphone.star.launcher:id/confirm", text: "确定"}
+
+tab_text: {resourceId: "tv.danmaku.bili:id/tab_text", text: "我的"}
+
+setting: {resourceId: "tv.danmaku.bili:id/title", text: "设置"}
+
+tuijian_setting: {resourceId: "android:id/title", text: "首页推荐设置"}
+
+rb_1: {resourceId: "tv.danmaku.bili:id/rb_1"}
+
+home_tab_text: {resourceId: "tv.danmaku.bili:id/tab_text", text: "首页"}
+
+title_layout: {resourceId: "tv.danmaku.bili:id/title_layout"}
+
+container_top_more: {resourceId: "tv.danmaku.bili:id/container_top_more"}
+
+menu_item_title: {resourceId: "tv.danmaku.bili:id/menu_item_title", text: "投屏"}
+
+projection_control_seek_widget: {resourceId: "tv.danmaku.bili:id/projection_control_seek_widget"}
+
+item_switch: {resourceId: "com.upuphone.star.launcher:id/item_switch"}
+
+

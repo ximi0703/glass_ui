@@ -1,0 +1,141 @@
+# ----------用例数据----------
+test_smoke_navi_screen_off:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+# ----------AR导航app测试通用数据------------
+common:
+  username: &username "xxx"
+  mobile_number: &mobile_number "13205569804"
+
+# ----------设置家庭地址用例数据----------
+test_home_address_location:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+
+test_home_address_input:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "请输入家庭地址"
+
+test_company_address_location:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+
+test_company_address_input:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "请输入公司地址"
+
+test_often_address_location:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+
+test_often_address_input:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "请输入常用地址"
+
+test_home_address_modify:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "请输入常用地址"
+
+test_company_address_modify:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "请输入常用地址"
+
+test_often_address_modify:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "请输入常用地址"
+
+test_navi_with_connect:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_with_walk:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_bluetooth_connect:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_wifi_connect:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_screen_out:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_without_glass:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_without_starting:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_quit:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+
+test_navi_quit_glass:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_close_bluetooth_click:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+
+test_navi_close_bluetooth:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_close_wifi:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_close_location:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_close_flight:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+
+test_navi_offline:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_not_connect:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
+
+test_navi_connect:
+  address: "中国华商金融中心"
+  textContains: "中国华商金融中心"
+  text: "开始导航并流转到眼镜"
